@@ -1,0 +1,7 @@
+{
+  "name": "Islom Uz",
+  "description": "Namoz vaqtlari, Qibla, Quron, Hadislar va diniy viktorina o'z ichiga olgan islomiy ilova.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
